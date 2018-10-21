@@ -1,0 +1,5 @@
+﻿numbers generator by bardiakzm
+
+choose a .txt file for where to save and start 
+
+put int numbers
