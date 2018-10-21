@@ -2,4 +2,4 @@
 
 choose a .txt file for where to save and start 
 
-put int numbers
+chose int numbers
